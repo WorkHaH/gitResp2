@@ -6,4 +6,5 @@ package com.workhah;
  **/
 public class person {
     private String name;
+    private String pwd;
 }
