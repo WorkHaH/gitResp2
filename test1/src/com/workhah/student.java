@@ -9,4 +9,5 @@ public class student {
     private int age;
     private String num;
     private  String height;
+	private int weight;
 }
